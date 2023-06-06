@@ -1,0 +1,5 @@
+##ignore pycahe files
+*.pyc
+
+#ignore pycahe folder
+web_dynamic/__pycache__/
