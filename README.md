@@ -1,4 +1,4 @@
-# AirBnB Clone - The Console
+# AirBnB Clone - The Console 🎰
 The console is the fourth segment of the AirBnB project at ALX that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
 #### Functionalities of this command interpreter:
@@ -8,7 +8,7 @@ The console is the fourth segment of the AirBnB project at ALX that will collect
 * Update attributes of an object
 * Destroy an object
 
-## Table of Content
+## Table of Content 📁
 * [Environment](#environment)
 * [Installation](#installation)
 * [File Descriptions](#file-descriptions)
@@ -28,7 +28,7 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
 
-## File Descriptions
+## File Descriptions 📖
 [console.py](console.py) - the console contains the entry point of the command interpreter. 
 List of commands this console current supports:
 * `EOF` - exits console 
@@ -174,20 +174,20 @@ e6ee5344-04ef-454d-84e4-ba6fc613f1b4
 
 ```
 
-## Bugs
+## Bugs 🐛
 No known bugs at this time. 
 
-## Authors :pushpin:
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-Solomon Ampah - [Github](https://github.com/Pizzosta) / [Twitter](https://twitter.com/vandal_pizzosta)
+## Authors 🖋️
+* ** Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+* ** Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
+* **Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
+* **David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+* **Solomon Ampah - [Github](https://github.com/Pizzosta) / [Twitter](https://twitter.com/vandal_pizzosta)
 
 Fourth part of Airbnb: Solomon Ampah
 
-## License
+## License 🌐
 Public Domain. No copy write protection. 
 
-### Acknowledgements :raised_hands:
+### Acknowledgements 🙌
 To all the peers that contribuited with their knowledge
